@@ -25,8 +25,8 @@ author:
   avatar: assets/img/logo.png
 
 # Url settings
-url: "https://theroboticsclub.github.io"
-baseurl: "/colab-gsoc2020-Shreyas_Gokhale"
+url: "https://gsoc.shreyasgokhale.com"
+baseurl: "/"
 google_analytics: UA-126403543-4
 fb_appid:
 
