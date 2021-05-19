@@ -27,7 +27,7 @@ author:
 # Url settings
 url: "https://gsoc.shreyasgokhale.com"
 baseurl: "/"
-google_analytics: UA-126403543-4
+google_analytics:
 fb_appid:
 
 # Collection setting
