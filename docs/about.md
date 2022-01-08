@@ -18,4 +18,4 @@ I love to code, travel, hike and write! Check out my tech and travel blogs [here
 - [github.com/{{ site.author.username }}](https://github.com/shreyasgokhale)
 - [linkedin.com/in/shreyas6gokhale/](https://www.linkedin.com/in/shreyas6gokhale/)
 - [shreyasgokhale.com](https://shreyasgokhale.com/)
-- [shreyasgokhaleresu.me](https://www.shreyasgokhaleresu.me/)
+- [resume.shreyasgokhale.com](https://resume.shreyasgokhale.com/)
